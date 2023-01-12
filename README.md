@@ -1,2 +1,2 @@
 # aistegerd.github.io
-Mock data for Testimonials
+The Mock data for Testimonials
